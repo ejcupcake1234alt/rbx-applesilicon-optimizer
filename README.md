@@ -1,6 +1,6 @@
-# rbxfpsunlocker-osx [![GitHub license](https://img.shields.io/github/license/lanylow/rbxfpsunlocker-osx?color=informational)](https://github.com/lanylow/rbxfpsunlocker-osx/blob/main/LICENSE) [![Github All Releases](https://img.shields.io/github/downloads/lanylow/rbxfpsunlocker-osx/total.svg?color=informational)]() [![Discord](https://img.shields.io/badge/chat-discord-informational)](https://discord.gg/MrtJvV5tKv)
+# rbx-applesilicon-optimizer
 
-The first Roblox FPS unlocker for macOS. This script works  on both Intel and Apple Silicon Macs.
+Switches Roblox to use Metal Rendering. Significantly improves rendering efficiency on Apple Silicon Macs.
 
 ## Setup
 
@@ -10,10 +10,8 @@ curl -sfLO https://raw.githubusercontent.com/lanylow/rbxfpsunlocker-osx/script/i
 ```
 And then run it using this command:
 ```
-sh install_fps_unlocker 
+sh install_rbx_applesilicon_optimizer 
 ```
-After executing the script, you should see a confirmation that the unlocker was installed.
-<img width="1024" alt="image" src="https://github.com/lanylow/rbxfpsunlocker-osx/assets/31806776/0db1f1ec-5c78-4514-9849-a520860ae2ca">
 
 *Note: you must run the command again when Roblox updates.*
 
